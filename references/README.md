@@ -1,10 +1,8 @@
 <h1>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">Python Error Handling and Debugging</span>
   <span class="subhead">References</span>
 </h1>
 
 ## Lesson references
 
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
+- [Python Docs: Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)

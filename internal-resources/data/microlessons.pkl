@@ -9,24 +9,23 @@ setup = new Template.Microlesson {
   videoUrl = ""
 }
 
-concepts = new Template.Microlesson {
-  friendlyName = "Concepts"
-  dirName = "concepts"
+errorHandlingAndDebugging = new Template.Microlesson {
+  friendlyName = "Error Handling and Debugging"
+  dirName = "error-handling-and-debugging"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson01 = new Template.Microlesson {
-  friendlyName = "Microlesson 01"
-  dirName = "microlesson-01"
+programmaticErrorHandling = new Template.Microlesson {
+  friendlyName = "Programmatic Error Handling"
+  dirName = "programmatic-error-handling"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson02 = new Template.Microlesson {
-  friendlyName = "Microlesson 02"
-  dirName = "microlesson-02"
+wrapUp = new Template.Microlesson {
+  friendlyName = "Wrap Up"
+  dirName = "wrap-up"
   type = "Content"
   videoUrl = ""
 }
-

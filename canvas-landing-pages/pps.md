@@ -1,4 +1,3 @@
-<!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
   <span class="headline">Python Error Handling and Debugging</span>
@@ -10,8 +9,8 @@ In this module, you’ll learn how to effectively handle errors and debug your P
 
 ## Content
 
-| Lesson                                                                          | Skills                                                                                 |
-| ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| Lesson                                                                           | Skills                                                                                 |
+| -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | [Setup](../setup/README.md)                                                      | Setting up the development environment.                                                |
 | [Error Handling and Debugging](../python-error-handling-and-debugging/README.md) | Identifying and interpreting common Python errors, using error messages to debug code. |
 | [Programmatic Error Handling](../programmatic-error-handling/README.md)          | Implementing try/except blocks, handling multiple errors, raising custom errors.       |

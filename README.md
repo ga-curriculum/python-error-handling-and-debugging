@@ -1,21 +1,30 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">Python Error Handling and Debugging</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+In this module, you’ll learn how to effectively handle errors and debug your Python code. We'll start by exploring common Python errors and how to interpret error messages to fix issues in your programs. Then, we'll dive into programmatic error handling using try/except blocks, which allow you to anticipate and manage errors gracefully in your code. By the end of this module, you'll have the skills to troubleshoot your Python scripts more efficiently and write more robust, error-resistant programs.
+
+## Suggested Agenda
+
+| Time      | Activity                                     |
+| --------- | -------------------------------------------- |
+| 0:00–0:40 | Welcome + Error Handling and Debugging       |
+| 0:40–0:50 | Break                                        |
+| 0:50-1:20 | Error Handling and Debugging (cont..)        |
+| 1:20-1:40 | Programmatic Error Handling                  |
+| 1:40–1:50 | Wrapping Up, Q&A, and Exit Ticket Completion |
 
 ## Content
 
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [Setup](./setup/README.md)                          | -- | -- | Setting up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | -- | tktk skills covered                     |
-| **Total content**                                   | -- | -- |                                         |
+| Lesson                                                                          | Skills                                                                                 |
+| ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| [Setup](./setup/README.md)                                                      | Setting up the development environment.                                                |
+| [Error Handling and Debugging](./python-error-handling-and-debugging/README.md) | Identifying and interpreting common Python errors, using error messages to debug code. |
+| [Programmatic Error Handling](./programmatic-error-handling/README.md)          | Implementing try/except blocks, handling multiple errors, raising custom errors.       |
+| [Wrap Up](./wrap-up/README.md)                                                  | Reviewing key concepts, ensuring comprehension, and preparing for the next topic.      |
 
 ## References
 
@@ -25,17 +34,8 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ### Prerequisites
 
-- tktk
-- tktk
-- tktk
-
-### Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
-
-🐙 [Repository](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
+- Python Pre-Work
+- Python Functions
 
 ### Resources
 

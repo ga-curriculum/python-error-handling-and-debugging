@@ -18,7 +18,7 @@
 
 We need a way of creating programs that can anticipate when a block of code might run into an error.
 
-> 🍎 Ideally, we can keep modifying our programs until they're free of errors. However, for some programs, errors are inevitable. Applications that require user input and those that make requests to external data sources are repeat offenders.
+> 💡 Ideally, we can keep modifying our programs until they're free of errors. However, for some programs, errors are inevitable. Applications that require user input and those that make requests to external data sources are repeat offenders.
 
 ## Try and Except Your Code
 
@@ -88,7 +88,12 @@ But why would you do this?
 
 Raising your own error helps ensure that the program stops if something unexpected happens. This is similar to how built-in errors work. Unless you handle the error with a try-except block, it will shut down the program, alerting the user that something went wrong.
 
-## Discussion: Error Handling Possibilities TKTK
+<br>
+
+<div class="activity knowledge-check">
+  <h2 class="title">Error Handling Possibilities</h2>
+  <span class="minutes"></span>
+</div>
 
 Proper error handling is all about thinking through every possibility. You should have a plan for every logical situation. What's the plan below? Add comments to the code block to explain what each line is doing.
 

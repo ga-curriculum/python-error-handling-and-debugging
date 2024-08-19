@@ -7,7 +7,7 @@
 
 | Lesson                       | Duration |
 | ---------------------------- | -------- |
-| Error Handling and Debugging | 70 min   |
+| Error Handling and Debugging | 40 min   |
 
 ## Our Learning Goals
 
@@ -25,17 +25,27 @@ Python errors are very helpful and typically have clear messages.
 
 Once you've seen the same error a few times, you'll start to know exactly where to look to fix the problem.
 
-> 🍎 On the surface, errors are frustrating! However, they generally tell you what’s wrong so you can fix it! You will have a much better time programming if you learn to use error messages as a guide instead of a blocker.
+> 💡 On the surface, errors are frustrating! However, they generally tell you what’s wrong so you can fix it! You will have a much better time programming if you learn to use error messages as a guide instead of a blocker.
 
-## Discussion: Error Messages TKTK
+<br>
+
+<div class="activity discussion">
+  <h2 class="title">Error Messages</h2>
+  <span class="minutes"></span>
+</div>
 
 What's wrong with the code snippet below? What information is the error message giving us?
 
 ![Error Message](./assets/error-message.png)
 
-> 🍎 Let’s dissect this error message. The error gives us the File and Line Number that caused the error, along with what type of error (ZeroDivisionError) and a brief description.
+> 💡 Let’s dissect this error message. The error gives us the File and Line Number that caused the error, along with what type of error (ZeroDivisionError) and a brief description.
 
-## Solo Exercise: Error Scavenger Hunt 30 min TKTK
+<br>
+
+<div class="activity solo-exercise">
+  <h2 class="title">8.1 Error Scavenger Hunt</h2>
+  <span class="minutes">30 min</span>
+</div>
 
 We've curated a selection of the most common errors available in Python. Run each of the code blocks in the notebook, read the error message, then describe in your own words what the error type means.
 
@@ -62,7 +72,3 @@ When debugging logic errors, `print()` statements at each step of the way can re
 - Determine which blocks of code execute, and in what order
 - Reveal the value of specific variables and parameters used
 - Test out individual blocks of code to ensure they work as expected
-
-## Group Exercise: Debugging a Sort Function 30 min TKTK
-
-We're trying to write a common sort function, bubble sort. However, our code has run into some errors, both logical and programmatic. Use print statements and error codes to determine where the code is going wrong, taking things one step at a time.

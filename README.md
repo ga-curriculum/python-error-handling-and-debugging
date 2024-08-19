@@ -11,11 +11,10 @@ In this module, you’ll learn how to effectively handle errors and debug your P
 
 | Time      | Activity                                     |
 | --------- | -------------------------------------------- |
-| 0:00–0:40 | Welcome + Error Handling and Debugging       |
-| 0:40–0:50 | Break                                        |
-| 0:50-1:20 | Error Handling and Debugging (cont..)        |
-| 1:20-1:40 | Programmatic Error Handling                  |
-| 1:40–1:50 | Wrapping Up, Q&A, and Exit Ticket Completion |
+| 0:00–0:50 | Welcome + Error Handling and Debugging       |
+| 0:50–1:00 | Break                                        |
+| 1:00-1:20 | Programmatic Error Handling                  |
+| 1:20–1:30 | Wrapping Up, Q&A, and Exit Ticket Completion |
 
 ## Content
 

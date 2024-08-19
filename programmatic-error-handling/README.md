@@ -90,7 +90,7 @@ Raising your own error helps ensure that the program stops if something unexpect
 
 <br>
 
-<div class="activity knowledge-check">
+<div class="activity discussion">
   <h2 class="title">Error Handling Possibilities</h2>
   <span class="minutes"></span>
 </div>

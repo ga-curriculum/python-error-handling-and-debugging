@@ -23,7 +23,7 @@ In this module, you’ll learn how to effectively handle errors and debug your P
 | [Setup](./setup/README.md)                                               | Setting up the development environment.                                                |
 | [Error Handling and Debugging](./error-handling-and-debugging/README.md) | Identifying and interpreting common Python errors, using error messages to debug code. |
 | [Programmatic Error Handling](./programmatic-error-handling/README.md)   | Implementing try/except blocks, handling multiple errors, raising custom errors.       |
-| [Wrap Up](./wrap-up/README.md)                                           | Reviewing key concepts, ensuring comprehension, and preparing for the next topic.      |
+| [Wrap Up](./wrap-up/README.md)                                           | Reviewing key concepts and preparing for the next module.                              |
 
 ## References
 

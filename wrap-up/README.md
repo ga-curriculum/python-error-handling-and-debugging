@@ -9,7 +9,13 @@
 
 ## Wrapping Up
 
-| **Recap**                                                                                                                              | **Looking Ahead** |
-| -------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| **In today’s class, we…**                                                                                                              | **Next Class:**   |
-| - Identified common errors in Python.<br>- Read error messages for guidance to fix errors.<br>- Implemented try/except error handling. | - TKTK            |
+| **Recap**                                                                                                                              | **Looking Ahead**                                             |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| **In today’s class, we…**                                                                                                              | **On your own:**                                              |
+| - Identified common errors in Python.<br>- Read error messages for guidance to fix errors.<br>- Implemented try/except error handling. | - Work through any unfinished exercises in Jupyter Notebooks. |
+
+### Exit Tickets
+
+Please take the time to complete any **Exit Ticket Surveys** provided by your instructional team.
+
+![Exit Tickets](./assets/exit-ticket.png)

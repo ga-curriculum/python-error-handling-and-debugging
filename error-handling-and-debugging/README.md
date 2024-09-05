@@ -38,7 +38,7 @@ Once you've seen the same error a few times, you'll start to know exactly where 
 
 What's wrong with the code snippet below? What information is the error message giving us?
 
-![Error Message](./assets/error-message.png)
+<img src="./assets/error-message.png" alt="Error Message Image" style="width: 800px; height: auto;">
 
 > 💡 Let’s dissect this error message. The error gives us the File and Line Number that caused the error, along with what type of error (ZeroDivisionError) and a brief description.
 

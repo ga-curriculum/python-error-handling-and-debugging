@@ -15,6 +15,8 @@
 - Read error messages for guidance to fix errors
 - Implement try/except error handling
 
+<img src="./assets/learning-objectives.png" alt="Clipboard Image" style="width: 300px; height: auto;">
+
 ## Making Errors Into Friends
 
 Python errors are very helpful and typically have clear messages.
